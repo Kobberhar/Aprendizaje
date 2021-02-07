@@ -11,3 +11,5 @@
 9. git checkout master
 10. git merge rama-aprender
 11. git branch -d rama-aprender
+12. git push
+13. git commit -am
